@@ -16,7 +16,7 @@ Methods:
 - distance_from_zero(): Applys distance formula to calculate score.
 - get_score(): Returns score.
 
-##class Player: 
+## class Player: 
 
 Returns a context string of; player_name, total_score, points.
 
