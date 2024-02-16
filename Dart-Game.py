@@ -1,5 +1,3 @@
-#Student Name: Richard Zhao
-
 import math
 import random
 
